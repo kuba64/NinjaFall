@@ -1,0 +1,13 @@
+* Przycisk z miniaturka postaci ktora gramy
+
+Po nacisnieciu przenosi do sklepu z outfitami
+
+* Przycisk Replay
+
+Daje mozliwosc zagrania ponownie, bez przechodzenia przez ekran poczatkowy, po prostu pojawia sie gorka z nowu i gramy znow tyle ze od poczatku, brak mozliwosci zmiany perk.
+
+* Screen Shot
+
+Za kazdym razem w polowie lotu niech system robi screen shot, i na niego wklada logo gry z ekranu poczatkowego w lewy gorny rog (patrz screen shot) tak by w razie smierci, gracz mial screen'a z momentu tuz przed smiercia. Czemu w polowie lotu? By zdjecie bylo zrobione na klatce na ktorej ninja jest w locie, poza tym wtedy zazwyczaj ninja wlatuje w chmurke monet - dzieki temu zdjecie bedzie wygladalo dynamicznie. 
+
+Mala ikona zdjecia niech buja sie troche tak jak statek od prawej do lewej i z powrotem - doda to dynamiki i zwroci uwage gracza, dzieki temu kliknie na miniaturke otwierajac duze zdjecie i byc moze udosteni generujac nam darmowy rozglos.

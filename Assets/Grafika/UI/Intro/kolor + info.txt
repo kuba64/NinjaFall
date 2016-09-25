@@ -1,0 +1,5 @@
+#efb31a - zolty do tekstu w status barze
+
+Zaprojektowalem to tak ze nie trzbea bedzie robic tego domku na poczatku i tez fajnie bedzie to wygladac, daj po prostu ruszajacego sie od wiatru ninje na pojedynczej gorce tuz pod "tap to play" i logiem gry, za buttonami i bedzie zajebiscie :)
+
+Jesli chodzi o ekran startowy to napis "tap to play" daj tak zeby pojawial sie i znikal tak jak kursor gdy pisze sie tekst na wordzie czy gdziekolwiek, a ten napis "powerup" niech co raz podskakuje lecisienko do gory

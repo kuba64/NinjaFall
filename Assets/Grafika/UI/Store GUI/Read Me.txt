@@ -1,0 +1,5 @@
+Na gorki daj oczywiscie animowane postacie. Po nacisnieciu buttona next/previous ekran przechodzi do nastepnej gorki z nastepnym outfitem.
+
+* Przycisk BUY
+
+Na przycisk BUY uzyj Empty Button z tym ze zamiast wpisac w niego "Buy" daj tam anonimowana monete z liczba odpowiadajaca za cene outfitu (np 1k). Po nacisnieciu i zakupie w przyciusku wyswietl "Play" na kazdym outficie ktory jest juz kupiony. Po nacisnieciu przycisku "Play" niech odrazu zaczyna grac, bez przejscia przez poczatkowy ekran, po prostu znikaja wszystkie przyciki sklepu, pojawia sie Bar na gorze tak jak w normalnej rozgrywce i skaczesz z gorki ktora byla tak jak by w sklepie.

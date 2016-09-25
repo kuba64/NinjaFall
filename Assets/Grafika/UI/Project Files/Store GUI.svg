@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="198"
+   viewBox="0 0 128 198"
+   id="svg4374"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Store GUI.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#006300"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="57.228762"
+     inkscape:cy="102.37216"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       id="guide4932"
+       orientation="1,0"
+       position="64,199.49998"
+       inkscape:label="Center Y"
+       inkscape:color="rgb(0,255,2)" />
+    <sodipodi:guide
+       id="guide4934"
+       orientation="0,1"
+       position="129.5,99"
+       inkscape:label="Center X"
+       inkscape:color="rgb(0,255,20)" />
+    <sodipodi:guide
+       id="guide4936"
+       orientation="1,0"
+       position="15,181.24998" />
+    <sodipodi:guide
+       id="guide4938"
+       orientation="1,0"
+       position="113,140.28493" />
+    <sodipodi:guide
+       id="guide4940"
+       orientation="0,1"
+       position="128,13.5"
+       inkscape:label="20 px from bottom"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       id="guide4942"
+       orientation="0,1"
+       position="128,195"
+       inkscape:label="- 5 px from top"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       id="guide5091"
+       orientation="0,1"
+       position="105.5,175" />
+    <sodipodi:guide
+       id="guide4192"
+       orientation="0,1"
+       position="-382.14286,325.71429" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4376" />
+  <metadata
+     id="metadata4379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-854.36216)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="opacity:1;fill:#0090f9;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4366"
+       width="128"
+       height="198"
+       x="0"
+       y="854.36218" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9277"
+       width="25.657366"
+       height="10"
+       x="51.171318"
+       y="872.36218" />
+    <image
+       y="953.36218"
+       x="48"
+       id="image9289"
+       xlink:href="data:image/png;base64,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
+Ab53x3VY9PfXAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="224"
+       width="32" />
+    <image
+       y="945.86218"
+       x="105.5"
+       id="image9328"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAXUlEQVR42mNgIBP8hwIGeoMBs/jf
+v3//QZjuDqDYYnSNxPLRLSbZAcPGYqIdMOwsJuiAYWsxTgcMe4sxHDBiLIabN2IsHjlxPHLy8cgp
+q0dOfTz421wjr1094vpOANqRuP+zB2RRAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <image
+       width="15"
+       height="15"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAXUlEQVR42mNgIBP8hwIGeoMBs/jf
+v3//QZjuDqDYYnSNxPLRLSbZAcPGYqIdMOwsJuiAYWsxTgcMe4sxHDBiLIabN2IsHjlxPHLy8cgp
+q0dOfTz421wjr1094vpOANqRuP+zB2RRAAAAAElFTkSuQmCC
+"
+       id="image9331"
+       x="-22.5"
+       y="945.86218"
+       transform="scale(-1,1)" />
+    <image
+       y="1023.8622"
+       x="105.5"
+       id="image9359"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAASUlEQVR42mNgGAVQ8J9KYPBbTLZL
+KTVv1OJRi0ctHrWYaPP+DxAYtZh+FuNKBLTmj1o8ajH9LKZbNhpwi2ntALq1pylu2A87AABJytps
+N2ZZbAAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <image
+       y="1023.8622"
+       x="7.5"
+       id="image9379"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAWklEQVR42mNgQAP//v37TwvMQAjQ
+3WKiXUYmwGk+3S2mtYU4HTBq8aC3mGJ9Q8ZidPWkFhhDx2JqqRv8FlMaFUPP4pEXxyM3H4/csnq0
+ITD0LB557eoR13cCABxo+S77BKJTAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <image
+       y="1016.3622"
+       x="42"
+       id="image9399"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAyCAYAAADY+hwIAAAAeElEQVR42u3bIQoAIBBFwb3/oVe7
+WD5i0XlgXMMEEcHq7pGsWkrnf9uvgAAGDDgALh0FGDBgJcCSJIeyW4QAAwYMGDBgwIABAxZgwIAF
+GDBgwHeBJUkOZbcIAQYMGDBgwIABAwYswIAB7wZ8NMzmAQMGDNjzr55tAmFgqmWGCkwtAAAAAElF
+TkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="25"
+       width="44" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.36111069px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.501629"
+       y="1033.8622"
+       id="text9411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9413"
+         x="51.501629"
+         y="1033.8622">BUY</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9415"
+       y="1044.2622"
+       x="4.2017579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1044.2622"
+         x="4.2017579"
+         id="tspan9417"
+         sodipodi:role="line">GO BACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.052345"
+       y="1044.2622"
+       id="text9421"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9423"
+         x="99.052345"
+         y="1044.2622">BUY COINS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.911819"
+       y="877.36218"
+       id="text9425"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9427"
+         x="78.911819"
+         y="877.36218">&lt;- Tutaj daj liczbe</tspan><tspan
+         sodipodi:role="line"
+         x="78.911819"
+         y="883.61218"
+         id="tspan9429">monet ktora </tspan><tspan
+         sodipodi:role="line"
+         x="78.911819"
+         y="889.86218"
+         id="tspan9431">posiada gracz</tspan></text>
+  </g>
+</svg>

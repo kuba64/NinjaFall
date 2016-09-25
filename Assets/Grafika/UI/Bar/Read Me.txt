@@ -1,0 +1,11 @@
+Animation Frame Duration: 500 ms
+
+W przypadku pierwszego ladowania (pierwszy perk) by nabic jeden level na barze trzeba zaliczyc dwie gorki.
+
+W przypadku drugiego ladowania (drugi perk) by nabic jeden level na barze trzba zaliczyc cztery gorki.
+
+Dzieki temu gra stanie sie trudniejsza i bardziej wymagajaca.
+
+Gdy zaladuje sie pierwszy bar, dac lekki shake (identyczny jaki dales na gorke przed zapascia) i maly napis na srodku bar'a "Tap to activate". Jezeli grazc kliknie, to wykorzysta slabszy perk i pierwszy bar zaczyna sie ladowac od nowa.
+
+Jezeli nie wykorzysta, i przeskoczy kolejne 4 gorki, wtedy bar zmienia sie na czerwony i wbija pierwszy level a gdy caly sie napelni to tak samo jak w przypadku pierwszego bar'a - napis "tap to activate" i shake. Gdy gracz uzyje drugiego perka, bar znowu wraca do zerowego levela i laduje sie ponownie na niebiesko, nie na czerwono. Inaczej gracz by wbil sobie czerwony bar i po wykorzystaniu i naladowaniu ponownie odrazu mialby silniejszego perk'a do wykorzystania co by bylo zbyt latwe.

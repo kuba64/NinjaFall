@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skrypty\Camera_LookAt.cs">
+    <Files>
+      <File FileName="Assets\Skrypty\Camera_LookAt.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Sklep.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Hill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\GM.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\StartScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\ScrollingScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\FloatingText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\FloatintTextControler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\PowerUP.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Coins.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,20 @@
+* Dymek
+
+Na poczatku gry, to co jest napisane na dole, czyli instrukcje gry (tap to jump, hold to fly) wyswietl w dymku dokladnie nad postacia ktora gramy.
+
+* Ninja 1 Ninja 2 - duze ikony ninjy
+
+Sa one po to by zrobic interaktywne odpalanie sie gry. Ninja numer 1 bedzie wchodzil od prawej, Ninja numer dwa od lewej. Dzieki temu nada to glebie i interaktywnosc grze. (Patrz preview by zobacyzc jak mniej wiecej wszystko umiejscowic)
+
+1. Najpier gorka z ninja w tle
+2. Wjezdzaja za ekranu te dwie postacie nijy
+3. Potem wjezdzaja za ekranow przyciski
+4. Na koncu wyswietlaja sie napisy "power up" i "tap to play"
+
+* Power Up Board
+
+Na gorze zostawilem Ci miejsce na napis "Power Ups" lub cos w tym stylu. na kazdym z power up'ow wyswietl wirujaca monete z ich cena a pod spodem nazwe power'upu (lub dopasuj wedlug uznania tak by ladnie to wygladalo)
+
+* Folder NinjaFall Intro logo animation
+
+Zawiera nowe "logo" z nazwa gry, animowane i trzymajace klimat calej gry

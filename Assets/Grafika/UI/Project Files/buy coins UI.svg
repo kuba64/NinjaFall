@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="198"
+   viewBox="0 0 128 198"
+   id="svg4374"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="buy coins UI.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#006300"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="73.660701"
+     inkscape:cy="92.871754"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       id="guide4932"
+       orientation="1,0"
+       position="64,199.49998"
+       inkscape:label="Center Y"
+       inkscape:color="rgb(0,255,2)" />
+    <sodipodi:guide
+       id="guide4934"
+       orientation="0,1"
+       position="129.5,99"
+       inkscape:label="Center X"
+       inkscape:color="rgb(0,255,20)" />
+    <sodipodi:guide
+       id="guide4936"
+       orientation="1,0"
+       position="15,181.24998" />
+    <sodipodi:guide
+       id="guide4938"
+       orientation="1,0"
+       position="113,140.28493" />
+    <sodipodi:guide
+       id="guide4940"
+       orientation="0,1"
+       position="128,13.5"
+       inkscape:label="20 px from bottom"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       id="guide4942"
+       orientation="0,1"
+       position="128,195"
+       inkscape:label="- 5 px from top"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       id="guide5091"
+       orientation="0,1"
+       position="105.5,175" />
+    <sodipodi:guide
+       id="guide4192"
+       orientation="0,1"
+       position="-382.14286,325.71429" />
+    <sodipodi:guide
+       position="51.171318,159.99998"
+       orientation="0,1"
+       id="guide9467" />
+    <sodipodi:guide
+       position="15,137.5"
+       orientation="0,1"
+       id="guide9504"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="15,114.99998"
+       orientation="0,1"
+       id="guide9508" />
+    <sodipodi:guide
+       position="15,91.499977"
+       orientation="0,1"
+       id="guide9514" />
+    <sodipodi:guide
+       position="15,68.999977"
+       orientation="0,1"
+       id="guide9518" />
+    <sodipodi:guide
+       position="17.362383,38.880346"
+       orientation="1,0"
+       id="guide9691" />
+    <sodipodi:guide
+       position="15,129.99998"
+       orientation="0,1"
+       id="guide9719" />
+    <sodipodi:guide
+       position="15,107.49998"
+       orientation="0,1"
+       id="guide9721" />
+    <sodipodi:guide
+       position="15,83.999977"
+       orientation="0,1"
+       id="guide9723" />
+    <sodipodi:guide
+       position="15,61.499977"
+       orientation="0,1"
+       id="guide9725" />
+    <sodipodi:guide
+       position="110.63762,38.880346"
+       orientation="1,0"
+       id="guide9727" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4376" />
+  <metadata
+     id="metadata4379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-854.36216)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       style="opacity:1;fill:#0090f9;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4366"
+       width="128"
+       height="198"
+       x="0"
+       y="854.36218" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9277"
+       width="25.657366"
+       height="10"
+       x="51.171318"
+       y="872.36218" />
+    <image
+       y="945.86218"
+       x="105.5"
+       id="image9328"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAXUlEQVR42mNgIBP8hwIGeoMBs/jf
+v3//QZjuDqDYYnSNxPLRLSbZAcPGYqIdMOwsJuiAYWsxTgcMe4sxHDBiLIabN2IsHjlxPHLy8cgp
+q0dOfTz421wjr1094vpOANqRuP+zB2RRAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <image
+       width="15"
+       height="15"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAXUlEQVR42mNgIBP8hwIGeoMBs/jf
+v3//QZjuDqDYYnSNxPLRLSbZAcPGYqIdMOwsJuiAYWsxTgcMe4sxHDBiLIabN2IsHjlxPHLy8cgp
+q0dOfTz421wjr1094vpOANqRuP+zB2RRAAAAAElFTkSuQmCC
+"
+       id="image9331"
+       x="-22.5"
+       y="945.86218"
+       transform="scale(-1,1)" />
+    <image
+       y="1023.8622"
+       x="105.5"
+       id="image9359"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAASUlEQVR42mNgGAVQ8J9KYPBbTLZL
+KTVv1OJRi0ctHrWYaPP+DxAYtZh+FuNKBLTmj1o8ajH9LKZbNhpwi2ntALq1pylu2A87AABJytps
+N2ZZbAAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <image
+       y="1023.8622"
+       x="7.5"
+       id="image9379"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAWklEQVR42mNgQAP//v37TwvMQAjQ
+3WKiXUYmwGk+3S2mtYU4HTBq8aC3mGJ9Q8ZidPWkFhhDx2JqqRv8FlMaFUPP4pEXxyM3H4/csnq0
+ITD0LB557eoR13cCABxo+S77BKJTAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <image
+       y="1016.3622"
+       x="42"
+       id="image9399"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAyCAYAAADY+hwIAAAAeElEQVR42u3bIQoAIBBFwb3/oVe7
+WD5i0XlgXMMEEcHq7pGsWkrnf9uvgAAGDDgALh0FGDBgJcCSJIeyW4QAAwYMGDBgwIABAxZgwIAF
+GDBgwHeBJUkOZbcIAQYMGDBgwIABAwYswIAB7wZ8NMzmAQMGDNjzr55tAmFgqmWGCkwtAAAAAElF
+TkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="25"
+       width="44" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.36111069px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.501629"
+       y="1033.8622"
+       id="text9411"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9413"
+         x="51.501629"
+         y="1033.8622">BUY</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9415"
+       y="1044.2622"
+       x="4.2017579"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1044.2622"
+         x="4.2017579"
+         id="tspan9417"
+         sodipodi:role="line">GO BACK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.052345"
+       y="1044.2622"
+       id="text9421"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9423"
+         x="99.052345"
+         y="1044.2622">BUY COINS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.911819"
+       y="877.36218"
+       id="text9425"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9427"
+         x="78.911819"
+         y="877.36218">&lt;- Tutaj daj liczbe</tspan><tspan
+         sodipodi:role="line"
+         x="78.911819"
+         y="883.61218"
+         id="tspan9429">monet ktora </tspan><tspan
+         sodipodi:role="line"
+         x="78.911819"
+         y="889.86218"
+         id="tspan9431">posiada gracz</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9433"
+       width="128"
+       height="197.99995"
+       x="0"
+       y="854.36218" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9277-7"
+       width="25.657366"
+       height="10"
+       x="51.171318"
+       y="872.36218" />
+    <rect
+       y="1008.8622"
+       x="15"
+       height="30"
+       width="40"
+       id="rect9463"
+       style="opacity:1;fill:#ff0923;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       rx="2"
+       ry="2"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#128dfc;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9500"
+       width="98"
+       height="15"
+       x="15"
+       y="892.36218"
+       rx="1.5"
+       ry="1.5"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#ff921b;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9529"
+       width="40"
+       height="30"
+       x="73"
+       y="1008.8622"
+       rx="2"
+       ry="2"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
+    <image
+       y="869.86218"
+       x="105.5"
+       id="image9539"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAYElEQVR42mNgIB78JxJTHdDNYnIN
+pNghdLeY2nFFtHl0t5hmqZKQ+YPOYnIT1+C1mFiDCakj2ZxBbzEuC8jWP2QspjT7DT2LR04cD598
+PPLK6pFbH4+8NtfIbVcP774TAFYI0y1D6bgsAAAAAElFTkSuQmCC
+"
+       preserveAspectRatio="none"
+       height="15"
+       width="15" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="914.86218"
+       x="15"
+       height="15"
+       width="98"
+       id="rect9569"
+       style="opacity:1;fill:#128dfc;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#128dfc;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9580"
+       width="98"
+       height="15"
+       x="15"
+       y="937.36218"
+       rx="1.5"
+       ry="1.5" />
+    <rect
+       ry="1.5"
+       rx="1.5"
+       y="960.86218"
+       x="15"
+       height="15"
+       width="98"
+       id="rect9591"
+       style="opacity:1;fill:#128dfc;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#128dfc;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9602"
+       width="98"
+       height="15"
+       x="15"
+       y="983.36218"
+       rx="1.5"
+       ry="1.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.362381"
+       y="1014.9218"
+       id="text9632"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9634"
+         x="75.362381"
+         y="1014.9218">WATCH AD VIDEO</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9640"
+       y="1035.6825"
+       x="75.543045"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1035.6825"
+         x="75.543045"
+         id="tspan9642"
+         sodipodi:role="line">GET FREE COINS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.646194"
+       y="1027.4622"
+       id="text9644"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9646"
+         x="82.646194"
+         y="1027.4622">+100</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9665"
+       y="1014.9218"
+       x="17.362383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1014.9218"
+         x="17.362383"
+         id="tspan9667"
+         sodipodi:role="line">GET RID OF ADS</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9695"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,854.36216)"><flowRegion
+         id="flowRegion9697"><rect
+           id="rect9699"
+           width="34.913906"
+           height="19.320728"
+           x="17.362383"
+           y="161.99966"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.5px;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK'" /></flowRegion><flowPara
+         id="flowPara9701"
+         style="font-size:3.75px;text-anchor:middle;text-align:center;fill:#ffffff;fill-opacity:1">PAY ONE TIME TO REMOVE ALL ADS FOREVER!</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.894104"
+       y="1035.6367"
+       id="text9713"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9715"
+         x="29.894104"
+         y="1035.6367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Arial;-inkscape-font-specification:Arial">€ 5.99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.68889"
+       y="901.20435"
+       id="text9713-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9715-2"
+         x="110.68889"
+         y="901.20435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end">€ 0.99</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9747"
+       y="923.70435"
+       x="110.80424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+         y="923.70435"
+         x="110.80424"
+         id="tspan9749"
+         sodipodi:role="line">€ 1.99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.82379"
+       y="945.81641"
+       id="text9751"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9753"
+         x="110.82379"
+         y="945.81641"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end">€ 4.99</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9755"
+       y="969.70435"
+       x="110.80424"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end"
+         y="969.70435"
+         x="110.80424"
+         id="tspan9757"
+         sodipodi:role="line">€ 19.99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="110.80424"
+       y="992.20435"
+       id="text9759"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9761"
+         x="110.80424"
+         y="992.20435"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.75px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;text-anchor:end">€ 49.99</tspan></text>
+    <image
+       y="895.86218"
+       x="19"
+       id="image9771"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAwUlEQVR42u3aPQoCMRCA0b2DXs+b
+eCG9h3ex0dpCiBhIE5DN/ggT8j6YYsFi56EWu5kmSZIkSZJ273qa0nfS+5mnXC8dAL0tXC9ezyNd
+Ng2AqIvXN/q6H/OUxcv1XgMgKsDcjS/9EwQQFWDt4rfzIU/rVz0sBIBGgLWL15//BQGgN4DWaf0p
+AAAAAAAAAAAAAAAAAAAAAAA8EAHgoSgAL0YARHo5+q8BEP2AxNaDEN2fEBkOYA5k2FNiwwJIkiQp
+aB+qOQ0YCgcu/wAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="8"
+       width="8" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text9665-4"
+       y="901.66217"
+       x="17.362383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="901.66217"
+         x="17.362383"
+         id="tspan9667-7"
+         sodipodi:role="line">+  1000</tspan></text>
+    <image
+       y="918.36218"
+       x="19"
+       id="image9771-8"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAwUlEQVR42u3aPQoCMRCA0b2DXs+b eCG9h3ex0dpCiBhIE5DN/ggT8j6YYsFi56EWu5kmSZIkSZJ273qa0nfS+5mnXC8dAL0tXC9ezyNd Ng2AqIvXN/q6H/OUxcv1XgMgKsDcjS/9EwQQFWDt4rfzIU/rVz0sBIBGgLWL15//BQGgN4DWaf0p AAAAAAAAAAAAAAAAAAAAAAA8EAHgoSgAL0YARHo5+q8BEP2AxNaDEN2fEBkOYA5k2FNiwwJIkiQp aB+qOQ0YCgcu/wAAAABJRU5ErkJggg== "
+       preserveAspectRatio="none"
+       height="8"
+       width="8" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text9665-4-5"
+       y="924.16217"
+       x="17.362383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="924.16217"
+         x="17.362383"
+         id="tspan9667-7-9"
+         sodipodi:role="line">+  2100</tspan></text>
+    <image
+       y="940.86218"
+       x="19"
+       id="image9771-3"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAwUlEQVR42u3aPQoCMRCA0b2DXs+b eCG9h3ex0dpCiBhIE5DN/ggT8j6YYsFi56EWu5kmSZIkSZJ273qa0nfS+5mnXC8dAL0tXC9ezyNd Ng2AqIvXN/q6H/OUxcv1XgMgKsDcjS/9EwQQFWDt4rfzIU/rVz0sBIBGgLWL15//BQGgN4DWaf0p AAAAAAAAAAAAAAAAAAAAAAA8EAHgoSgAL0YARHo5+q8BEP2AxNaDEN2fEBkOYA5k2FNiwwJIkiQp aB+qOQ0YCgcu/wAAAABJRU5ErkJggg== "
+       preserveAspectRatio="none"
+       height="8"
+       width="8" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text9665-4-1"
+       y="946.66217"
+       x="17.362383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="946.66217"
+         x="17.362383"
+         id="tspan9667-7-1"
+         sodipodi:role="line">+  6500</tspan></text>
+    <image
+       y="964.36218"
+       x="19.000002"
+       id="image9771-7"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAwUlEQVR42u3aPQoCMRCA0b2DXs+b eCG9h3ex0dpCiBhIE5DN/ggT8j6YYsFi56EWu5kmSZIkSZJ273qa0nfS+5mnXC8dAL0tXC9ezyNd Ng2AqIvXN/q6H/OUxcv1XgMgKsDcjS/9EwQQFWDt4rfzIU/rVz0sBIBGgLWL15//BQGgN4DWaf0p AAAAAAAAAAAAAAAAAAAAAAA8EAHgoSgAL0YARHo5+q8BEP2AxNaDEN2fEBkOYA5k2FNiwwJIkiQp aB+qOQ0YCgcu/wAAAABJRU5ErkJggg== "
+       preserveAspectRatio="none"
+       height="8"
+       width="8" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text9665-4-3"
+       y="970.16217"
+       x="17.362383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="970.16217"
+         x="17.362383"
+         id="tspan9667-7-16"
+         sodipodi:role="line">+  25000</tspan></text>
+    <image
+       y="986.86218"
+       x="19"
+       id="image9771-35"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAwUlEQVR42u3aPQoCMRCA0b2DXs+b eCG9h3ex0dpCiBhIE5DN/ggT8j6YYsFi56EWu5kmSZIkSZJ273qa0nfS+5mnXC8dAL0tXC9ezyNd Ng2AqIvXN/q6H/OUxcv1XgMgKsDcjS/9EwQQFWDt4rfzIU/rVz0sBIBGgLWL15//BQGgN4DWaf0p AAAAAAAAAAAAAAAAAAAAAAA8EAHgoSgAL0YARHo5+q8BEP2AxNaDEN2fEBkOYA5k2FNiwwJIkiQp aB+qOQ0YCgcu/wAAAABJRU5ErkJggg== "
+       preserveAspectRatio="none"
+       height="8"
+       width="8" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text9665-4-0"
+       y="992.66217"
+       x="17.362383"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.25px;line-height:125%;font-family:'Edit Undo BRK';-inkscape-font-specification:'Edit Undo BRK';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="992.66217"
+         x="17.362383"
+         id="tspan9667-7-8"
+         sodipodi:role="line">+  60000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="10.897289"
+       y="870.96741"
+       id="text9425-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9427-7"
+         x="10.897289"
+         y="870.96741">tutaj daj liczbe</tspan><tspan
+         sodipodi:role="line"
+         x="10.897289"
+         y="877.21741"
+         id="tspan9429-0">monet ktora -&gt; </tspan><tspan
+         sodipodi:role="line"
+         x="10.897289"
+         y="883.46741"
+         id="tspan9431-6">posiada gracz</tspan></text>
+  </g>
+</svg>
